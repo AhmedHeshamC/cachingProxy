@@ -88,13 +88,23 @@ Monitor cache hit rates and response times with the added response headers:
 - `X-Response-Time` - Time taken to process the request
 - `X-Cache-Timestamp` - When the cached response was stored
 
-## License
-
-MIT
-
-## Author
-Ahmed Hesham
+---
 
 ## Project URLs
 - https://roadmap.sh/projects/caching-server
 - https://github.com/AhmedHeshamC/cachingProxy
+
+---
+
+## 🤝 Contributing
+
+1. Fork the repo
+2. Create feature branch
+3. Write tests
+4. Submit a PR
+
+Please adhere to the existing code style and coverage requirements.
+
+---
+
+© 2025 Ahmed Hesham. MIT License.
